@@ -4,3 +4,4 @@ psycopg2
 zeep
 requests
 xmltodict
+flake8
