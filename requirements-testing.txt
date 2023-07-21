@@ -1,0 +1,6 @@
+pytest-django
+django-webtest
+pytest-factoryboy
+pytest-mock
+coverage
+django-coverage-plugin 
